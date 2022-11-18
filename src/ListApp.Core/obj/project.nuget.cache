@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PmEl47Ny9whi1pzvEfAcWyy4WrzygYUHDzKFhRjhatS9/6SjAp9v3NNwOX8bxKTVKrFQMkVeH2fXkWcaz0DmkA==",
+  "success": true,
+  "projectFilePath": "/Users/karan/ListApp/src/ListApp.Core/ListApp.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/karan/.nuget/packages/microsoft.extensions.logging.abstractions/5.0.0/microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "/Users/karan/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/karan/.nuget/packages/mvvmcross/8.0.2/mvvmcross.8.0.2.nupkg.sha512",
+    "/Users/karan/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
