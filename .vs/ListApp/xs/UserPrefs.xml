@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{E8E95174-6252-495E-8473-28FFDD204410}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/ListApp.iOS/Views/Main/LoginViewController.cs">
+    <Files>
+      <File FileName="src/ListApp.Core/ViewModels/Main/LoginViewModel.cs" />
+      <File FileName="src/ListApp.iOS/AppDelegate.cs" />
+      <File FileName="src/ListApp.iOS/Views/Main/HomeViewController.cs" Line="15" Column="1" />
+      <File FileName="src/ListApp.iOS/Views/Main/LoginViewController.cs" Line="31" Column="25" />
+      <File FileName="src/ListApp.iOS/Views/Main/LoginViewController.designer.cs" />
+      <File FileName="src/ListApp.Core/ViewModels/Main/HomeViewModel.cs" />
+      <File FileName="src/ListApp.iOS/Main.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ListApp" expanded="True">
+            <Node name="ListApp.Core" expanded="True">
+              <Node name="ViewModels" expanded="True">
+                <Node name="Main" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="ListApp.iOS" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Main" expanded="True">
+                  <Node name="LoginViewController.cs" expanded="True" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ListApp.Droid PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.ItemProperties.ListApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2C32F966-AB6C-4312-91A3-40046B1FA5B4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MultiItemStartupConfigurations />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.SelectDevice" />
+</Properties>

@@ -1044,11 +1044,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/karan/ListApp/src/ListApp.iOS/ListApp.iOS.csproj",
+      "projectUniqueName": "/Users/karan/Projects/ListApp1/src/ListApp.iOS/ListApp.iOS.csproj",
       "projectName": "ListApp.iOS",
-      "projectPath": "/Users/karan/ListApp/src/ListApp.iOS/ListApp.iOS.csproj",
+      "projectPath": "/Users/karan/Projects/ListApp1/src/ListApp.iOS/ListApp.iOS.csproj",
       "packagesPath": "/Users/karan/.nuget/packages/",
-      "outputPath": "/Users/karan/ListApp/src/ListApp.iOS/obj/",
+      "outputPath": "/Users/karan/Projects/ListApp1/src/ListApp.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1063,8 +1063,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/karan/ListApp/src/ListApp.Core/ListApp.Core.csproj": {
-              "projectPath": "/Users/karan/ListApp/src/ListApp.Core/ListApp.Core.csproj"
+            "/Users/karan/Projects/ListApp1/src/ListApp.Core/ListApp.Core.csproj": {
+              "projectPath": "/Users/karan/Projects/ListApp1/src/ListApp.Core/ListApp.Core.csproj"
             }
           }
         }

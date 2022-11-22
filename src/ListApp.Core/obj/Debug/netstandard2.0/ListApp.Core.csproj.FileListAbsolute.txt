@@ -1,0 +1,10 @@
+/Users/karan/Projects/ListApp1/src/ListApp.Core/bin/Debug/netstandard2.0/ListApp.Core.deps.json
+/Users/karan/Projects/ListApp1/src/ListApp.Core/bin/Debug/netstandard2.0/ListApp.Core.dll
+/Users/karan/Projects/ListApp1/src/ListApp.Core/bin/Debug/netstandard2.0/ListApp.Core.pdb
+/Users/karan/Projects/ListApp1/src/ListApp.Core/obj/Debug/netstandard2.0/ListApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karan/Projects/ListApp1/src/ListApp.Core/obj/Debug/netstandard2.0/ListApp.Core.AssemblyInfoInputs.cache
+/Users/karan/Projects/ListApp1/src/ListApp.Core/obj/Debug/netstandard2.0/ListApp.Core.AssemblyInfo.cs
+/Users/karan/Projects/ListApp1/src/ListApp.Core/obj/Debug/netstandard2.0/ListApp.Core.csproj.CoreCompileInputs.cache
+/Users/karan/Projects/ListApp1/src/ListApp.Core/obj/Debug/netstandard2.0/ListApp.Core.dll
+/Users/karan/Projects/ListApp1/src/ListApp.Core/obj/Debug/netstandard2.0/ListApp.Core.pdb
+/Users/karan/Projects/ListApp1/src/ListApp.Core/obj/Debug/netstandard2.0/ListApp.Core.csproj.AssemblyReference.cache
