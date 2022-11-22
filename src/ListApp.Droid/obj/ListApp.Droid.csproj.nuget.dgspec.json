@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/karan/ListApp/src/ListApp.Droid/ListApp.Droid.csproj": {}
+    "/Users/karan/Projects/ListApp1/src/ListApp.Droid/ListApp.Droid.csproj": {}
   },
   "projects": {
-    "/Users/karan/ListApp/src/ListApp.Core/ListApp.Core.csproj": {
+    "/Users/karan/Projects/ListApp1/src/ListApp.Core/ListApp.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/karan/ListApp/src/ListApp.Core/ListApp.Core.csproj",
+        "projectUniqueName": "/Users/karan/Projects/ListApp1/src/ListApp.Core/ListApp.Core.csproj",
         "projectName": "ListApp.Core",
-        "projectPath": "/Users/karan/ListApp/src/ListApp.Core/ListApp.Core.csproj",
+        "projectPath": "/Users/karan/Projects/ListApp1/src/ListApp.Core/ListApp.Core.csproj",
         "packagesPath": "/Users/karan/.nuget/packages/",
-        "outputPath": "/Users/karan/ListApp/src/ListApp.Core/obj/",
+        "outputPath": "/Users/karan/Projects/ListApp1/src/ListApp.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/karan/.config/NuGet/NuGet.Config"
@@ -68,14 +68,14 @@
         }
       }
     },
-    "/Users/karan/ListApp/src/ListApp.Droid/ListApp.Droid.csproj": {
+    "/Users/karan/Projects/ListApp1/src/ListApp.Droid/ListApp.Droid.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/karan/ListApp/src/ListApp.Droid/ListApp.Droid.csproj",
+        "projectUniqueName": "/Users/karan/Projects/ListApp1/src/ListApp.Droid/ListApp.Droid.csproj",
         "projectName": "ListApp.Droid",
-        "projectPath": "/Users/karan/ListApp/src/ListApp.Droid/ListApp.Droid.csproj",
+        "projectPath": "/Users/karan/Projects/ListApp1/src/ListApp.Droid/ListApp.Droid.csproj",
         "packagesPath": "/Users/karan/.nuget/packages/",
-        "outputPath": "/Users/karan/ListApp/src/ListApp.Droid/obj/",
+        "outputPath": "/Users/karan/Projects/ListApp1/src/ListApp.Droid/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -90,8 +90,8 @@
         "frameworks": {
           "monoandroid11.0": {
             "projectReferences": {
-              "/Users/karan/ListApp/src/ListApp.Core/ListApp.Core.csproj": {
-                "projectPath": "/Users/karan/ListApp/src/ListApp.Core/ListApp.Core.csproj"
+              "/Users/karan/Projects/ListApp1/src/ListApp.Core/ListApp.Core.csproj": {
+                "projectPath": "/Users/karan/Projects/ListApp1/src/ListApp.Core/ListApp.Core.csproj"
               }
             }
           }

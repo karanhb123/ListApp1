@@ -13,7 +13,7 @@ namespace ListApp.Core
                 .AsInterfaces()
                 .RegisterAsLazySingleton();
 
-            RegisterAppStart<MainViewModel>();
+            RegisterAppStart<LoginViewModel>();
         }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RBPrGA3qob901U1jIGHQyUMY4jkFN5iUJ2BHfNZJu8H1UKi54kXQp8cXGQZtKH3VLTyqmkL9jLExlznafOKzow==",
+  "dgSpecHash": "GfPE2emRj5HT/lAtF5TWT18jTYkixpYVr5ftYVYx4min6yh+8xWkWBK/f0ff5bkPVI79QjZlVnnzRgcHCbaTmQ==",
   "success": true,
-  "projectFilePath": "/Users/karan/ListApp/src/ListApp.Droid/ListApp.Droid.csproj",
+  "projectFilePath": "/Users/karan/Projects/ListApp1/src/ListApp.Droid/ListApp.Droid.csproj",
   "expectedPackageFiles": [
     "/Users/karan/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.0.0/microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
     "/Users/karan/.nuget/packages/microsoft.extensions.logging/2.0.0/microsoft.extensions.logging.2.0.0.nupkg.sha512",

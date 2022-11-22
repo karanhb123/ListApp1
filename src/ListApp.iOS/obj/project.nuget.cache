@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RfFvx/69MX8nXfqTV/YW/Lknf4YrRAQTXedok2aRfnJMNcD9FktZKtzOEFWaRrkm1l8XDXbEc1G8vdBF3xTYRg==",
+  "dgSpecHash": "UIdfcW7jPywo8Sq0C7e7MHoqOJ75rej4Ekg4KwGQ4nd8nF5GfwoCL9Pb0o9sstiKANYDkPFS5wXZNzpZ8XFZHQ==",
   "success": true,
-  "projectFilePath": "/Users/karan/ListApp/src/ListApp.iOS/ListApp.iOS.csproj",
+  "projectFilePath": "/Users/karan/Projects/ListApp1/src/ListApp.iOS/ListApp.iOS.csproj",
   "expectedPackageFiles": [
     "/Users/karan/.nuget/packages/cirrious.fluentlayout/2.9.0/cirrious.fluentlayout.2.9.0.nupkg.sha512",
     "/Users/karan/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.0.0/microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",

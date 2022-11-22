@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PmEl47Ny9whi1pzvEfAcWyy4WrzygYUHDzKFhRjhatS9/6SjAp9v3NNwOX8bxKTVKrFQMkVeH2fXkWcaz0DmkA==",
+  "dgSpecHash": "Yul305YKhhmILjQigt1vxuuG6evdta7AlGPEk5rgRzRh+EY24hbGRu68fnXgnj5nOzakML0HYXCFgcchgL0CkQ==",
   "success": true,
-  "projectFilePath": "/Users/karan/ListApp/src/ListApp.Core/ListApp.Core.csproj",
+  "projectFilePath": "/Users/karan/Projects/ListApp1/src/ListApp.Core/ListApp.Core.csproj",
   "expectedPackageFiles": [
     "/Users/karan/.nuget/packages/microsoft.extensions.logging.abstractions/5.0.0/microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "/Users/karan/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
