@@ -1,6 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool/ListViewController.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>ListViewController.nib</LogicalName>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool/FavListViewController.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>FavListViewController.nib</LogicalName>
+    </_BundleResourceWithLogicalName>
     <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool/HomeViewController.nib">
       <Optimize>false</Optimize>
       <LogicalName>HomeViewController.nib</LogicalName>
@@ -26,6 +34,10 @@
       <InterfaceDefinition>LaunchScreen.storyboard</InterfaceDefinition>
       <LogicalName>LaunchScreen.storyboardc/Info.plist</LogicalName>
       <OriginalItemSpec>obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool/ListViewCell.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>ListViewCell.nib</LogicalName>
     </_BundleResourceWithLogicalName>
   </ItemGroup>
 </Project>

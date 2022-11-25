@@ -21,6 +21,7 @@
 	--reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
 	--reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
 	--reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Drawing.Common.dll \
+	--reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Numerics.dll \
 	--reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
 	--reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
 	--reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/Microsoft.Win32.Primitives.dll \
@@ -172,10 +173,16 @@
 	--reference=/Users/karan/.nuget/packages/microsoft.extensions.options/2.0.0/lib/netstandard2.0/Microsoft.Extensions.Options.dll \
 	--reference=/Users/karan/.nuget/packages/microsoft.extensions.primitives/2.0.0/lib/netstandard2.0/Microsoft.Extensions.Primitives.dll \
 	--reference=/Users/karan/.nuget/packages/mvvmcross/8.0.2/lib/xamarinios10/MvvmCross.dll \
+	--reference=/Users/karan/.nuget/packages/mvvmcross.plugin.messenger/8.0.0/lib/netstandard2.0/MvvmCross.Plugin.Messenger.dll \
+	--reference=/Users/karan/.nuget/packages/newtonsoft.json/13.0.1/lib/netstandard2.0/Newtonsoft.Json.dll \
 	--reference=/Users/karan/.nuget/packages/serilog/2.8.0/lib/netstandard2.0/Serilog.dll \
 	--reference=/Users/karan/.nuget/packages/serilog.extensions.logging/3.0.1/lib/netstandard2.0/Serilog.Extensions.Logging.dll \
 	--reference=/Users/karan/.nuget/packages/serilog.sinks.xamarin/0.2.0.64/lib/Xamarin.iOS10/Serilog.Sinks.Xamarin.dll \
 	--reference=/Users/karan/.nuget/packages/system.runtime.compilerservices.unsafe/4.4.0/lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll \
+	--reference=/Users/karan/.nuget/packages/webp.touch/1.0.8/lib/Xamarin.iOS10/WebP.Touch.dll \
+	--reference=/Users/karan/.nuget/packages/xamarin.essentials/1.7.3/lib/xamarinios10/Xamarin.Essentials.dll \
+	--reference=/Users/karan/.nuget/packages/xamarin.ffimageloading/2.4.11.982/lib/Xamarin.iOS10/FFImageLoading.Platform.dll \
+	--reference=/Users/karan/.nuget/packages/xamarin.ffimageloading/2.4.11.982/lib/Xamarin.iOS10/FFImageLoading.dll \
 	--reference=/Users/karan/Projects/ListApp1/src/ListApp.Core/bin/Debug/netstandard2.0/ListApp.Core.dll \
 	@/Users/karan/Projects/ListApp1/src/ListApp.iOS/obj/iPhoneSimulator/Debug/response-file.rsp \
 	--linkskip=ListApp.Core \

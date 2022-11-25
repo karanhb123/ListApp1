@@ -47,11 +47,27 @@
               "target": "Package",
               "version": "[8.0.2, )"
             },
+            "MvvmCross.Plugin.Messenger": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.3, )"
+            },
+            "Xamarin.FFImageLoading": {
+              "target": "Package",
+              "version": "[2.4.11.982, )"
             }
           },
           "imports": [
@@ -112,6 +128,14 @@
               "target": "Package",
               "version": "[8.0.2, )"
             },
+            "MvvmCross.Plugin.Messenger": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "Serilog.Extensions.Logging": {
               "target": "Package",
               "version": "[3.0.1, )"
@@ -119,6 +143,14 @@
             "Serilog.Sinks.Xamarin": {
               "target": "Package",
               "version": "[0.2.0.64, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.3, )"
+            },
+            "Xamarin.FFImageLoading": {
+              "target": "Package",
+              "version": "[2.4.11.982, )"
             }
           }
         }

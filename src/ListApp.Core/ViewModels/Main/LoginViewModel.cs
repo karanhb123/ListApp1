@@ -32,6 +32,7 @@ namespace ListApp.Core.ViewModels.Main
         public ICommand LogIn => new MvxCommand<bool>(async (fromLoginInButton) =>
         {
             navigatehome();
+
         });
         public void navigatehome()
         {

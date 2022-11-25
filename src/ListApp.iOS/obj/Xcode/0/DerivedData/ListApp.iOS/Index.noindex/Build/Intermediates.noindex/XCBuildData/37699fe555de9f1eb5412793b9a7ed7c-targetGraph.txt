@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+ListApp.iOS in ListApp.iOS, no dependencies
+ListApp.iOS in ListApp.iOS, no dependencies

@@ -1,19 +1,37 @@
-﻿<Properties StartupConfiguration="{E8E95174-6252-495E-8473-28FFDD204410}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="src/ListApp.iOS/Views/Main/LoginViewController.cs">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{E8E95174-6252-495E-8473-28FFDD204410}|Default">
+  <MonoDevelop.Ide.ItemProperties.ListApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2C32F966-AB6C-4312-91A3-40046B1FA5B4" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.ListApp.Droid PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/ListApp.iOS/Views/Main/FavListViewController.cs">
     <Files>
       <File FileName="src/ListApp.Core/ViewModels/Main/LoginViewModel.cs" />
       <File FileName="src/ListApp.iOS/AppDelegate.cs" />
-      <File FileName="src/ListApp.iOS/Views/Main/HomeViewController.cs" Line="15" Column="1" />
-      <File FileName="src/ListApp.iOS/Views/Main/LoginViewController.cs" Line="31" Column="25" />
+      <File FileName="src/ListApp.iOS/Views/Main/HomeViewController.cs" />
+      <File FileName="src/ListApp.iOS/Views/Main/LoginViewController.cs" />
       <File FileName="src/ListApp.iOS/Views/Main/LoginViewController.designer.cs" />
       <File FileName="src/ListApp.Core/ViewModels/Main/HomeViewModel.cs" />
       <File FileName="src/ListApp.iOS/Main.cs" />
+      <File FileName="src/ListApp.Core/ViewModels/Main/ListViewModel.cs" />
+      <File FileName="src/ListApp.Core/Models/Messaging.cs" />
+      <File FileName="src/ListApp.Core/ViewModels/Main/FavListViewModel.cs" />
+      <File FileName="src/ListApp.Core/Models/FavListModel.cs" />
+      <File FileName="src/ListApp.iOS/Views/Main/ListViewCell.cs" Line="15" Column="74" />
+      <File FileName="src/ListApp.iOS/Views/Main/ListViewCell.designer.cs" />
+      <File FileName="src/ListApp.iOS/Views/Main/ListViewController.cs" Line="69" Column="1" />
+      <File FileName="src/ListApp.iOS/Views/Main/ListViewController.designer.cs" />
+      <File FileName="src/ListApp.iOS/Views/Main/FavListViewController.designer.cs" />
+      <File FileName="src/ListApp.Core/Service/ListService.cs" />
+      <File FileName="src/ListApp.iOS/Views/Main/FavListViewController.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ListApp" expanded="True">
             <Node name="ListApp.Core" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Service" expanded="True" />
               <Node name="ViewModels" expanded="True">
                 <Node name="Main" expanded="True" />
               </Node>
@@ -21,7 +39,8 @@
             <Node name="ListApp.iOS" expanded="True">
               <Node name="Views" expanded="True">
                 <Node name="Main" expanded="True">
-                  <Node name="LoginViewController.cs" expanded="True" selected="True" />
+                  <Node name="FavListViewController.cs" selected="True" />
+                  <Node name="ListViewCell.cs" expanded="True" />
                 </Node>
               </Node>
             </Node>
@@ -30,13 +49,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.ListApp.Droid PreferredExecutionTarget="Android.SelectDevice" />
-  <MonoDevelop.Ide.ItemProperties.ListApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2C32F966-AB6C-4312-91A3-40046B1FA5B4" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
-  <MultiItemStartupConfigurations />
   <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
