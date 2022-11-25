@@ -7,6 +7,37 @@
 	<key>com.apple.ibtool.document.notices</key>
 	<dict/>
 	<key>com.apple.ibtool.document.warnings</key>
-	<dict/>
+	<dict>
+		<key>UUV-uw-fd1</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>UUV-uw-fd1</string>
+				</array>
+				<key>message</key>
+				<string>Custom background for Plain Button Style before iOS 15.0</string>
+				<key>type</key>
+				<string>IBIssueTypeAttributeUnavailable</string>
+				<key>type-value</key>
+				<integer>5</integer>
+			</dict>
+		</array>
+		<key>uoY-SF-YPj</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>uoY-SF-YPj</string>
+				</array>
+				<key>message</key>
+				<string>Custom background for Plain Button Style before iOS 15.0</string>
+				<key>type</key>
+				<string>IBIssueTypeAttributeUnavailable</string>
+				<key>type-value</key>
+				<integer>5</integer>
+			</dict>
+		</array>
+	</dict>
 </dict>
 </plist>

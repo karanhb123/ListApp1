@@ -1,0 +1,58 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "2db89cc0fa2036c5afc99949112f194881c487e47ae81c57aca26a09e534285f"
+    }
+  ],
+  "containerPath" : "/Users/karan/Projects/ListApp1/src/ListApp.iOS/obj/Xcode/0/ListApp.iOS.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.1",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/karan/Projects/ListApp1/src/ListApp.iOS/obj/Xcode/0/DerivedData/ListApp.iOS/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/karan/Projects/ListApp1/src/ListApp.iOS/obj/Xcode/0/DerivedData/ListApp.iOS/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/karan/Projects/ListApp1/src/ListApp.iOS/obj/Xcode/0/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/karan/Projects/ListApp1/src/ListApp.iOS/obj/Xcode/0/DerivedData/ListApp.iOS/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/karan/Projects/ListApp1/src/ListApp.iOS/obj/Xcode/0/DerivedData/ListApp.iOS/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/karan/Projects/ListApp1/src/ListApp.iOS/obj/Xcode/0/DerivedData/ListApp.iOS/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/karan/Projects/ListApp1/src/ListApp.iOS/obj/Xcode/0/DerivedData/ListApp.iOS/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

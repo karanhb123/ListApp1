@@ -148,6 +148,21 @@
     <Compile Include="Views\Main\LoginViewController.designer.cs">
       <DependentUpon>LoginViewController.cs</DependentUpon>
     </Compile>
+    <InterfaceDefinition Include="Views\Main\ListViewController.xib" />
+    <Compile Include="Views\Main\ListViewController.cs" />
+    <Compile Include="Views\Main\ListViewController.designer.cs">
+      <DependentUpon>ListViewController.cs</DependentUpon>
+    </Compile>
+    <InterfaceDefinition Include="Views\Main\ListViewCell.xib" />
+    <Compile Include="Views\Main\ListViewCell.cs" />
+    <Compile Include="Views\Main\ListViewCell.designer.cs">
+      <DependentUpon>ListViewCell.cs</DependentUpon>
+    </Compile>
+    <InterfaceDefinition Include="Views\Main\FavListViewController.xib" />
+    <Compile Include="Views\Main\FavListViewController.cs" />
+    <Compile Include="Views\Main\FavListViewController.designer.cs">
+      <DependentUpon>FavListViewController.cs</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -176,6 +191,18 @@
     </PackageReference>
     <PackageReference Include="Serilog.Sinks.Xamarin">
       <Version>0.2.0.64</Version>
+    </PackageReference>
+    <PackageReference Include="Newtonsoft.Json">
+      <Version>13.0.1</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.FFImageLoading">
+      <Version>2.4.11.982</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.Essentials">
+      <Version>1.7.3</Version>
+    </PackageReference>
+    <PackageReference Include="MvvmCross.Plugin.Messenger">
+      <Version>8.0.0</Version>
     </PackageReference>
   </ItemGroup>
   <ItemGroup>

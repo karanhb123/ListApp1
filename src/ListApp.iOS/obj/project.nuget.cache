@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "UIdfcW7jPywo8Sq0C7e7MHoqOJ75rej4Ekg4KwGQ4nd8nF5GfwoCL9Pb0o9sstiKANYDkPFS5wXZNzpZ8XFZHQ==",
+  "dgSpecHash": "1xdV1jxFbsHPBnsgz1bKr21cXPevmPLIDTBW1O5VO4Dpl2I92h7+n+tLLOgKLGioqOfXSzOgRpbeZOvWUGiQaQ==",
   "success": true,
   "projectFilePath": "/Users/karan/Projects/ListApp1/src/ListApp.iOS/ListApp.iOS.csproj",
   "expectedPackageFiles": [
@@ -11,11 +11,17 @@
     "/Users/karan/.nuget/packages/microsoft.extensions.options/2.0.0/microsoft.extensions.options.2.0.0.nupkg.sha512",
     "/Users/karan/.nuget/packages/microsoft.extensions.primitives/2.0.0/microsoft.extensions.primitives.2.0.0.nupkg.sha512",
     "/Users/karan/.nuget/packages/mvvmcross/8.0.2/mvvmcross.8.0.2.nupkg.sha512",
+    "/Users/karan/.nuget/packages/mvvmcross.plugin.messenger/8.0.0/mvvmcross.plugin.messenger.8.0.0.nupkg.sha512",
+    "/Users/karan/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
     "/Users/karan/.nuget/packages/serilog/2.8.0/serilog.2.8.0.nupkg.sha512",
     "/Users/karan/.nuget/packages/serilog.extensions.logging/3.0.1/serilog.extensions.logging.3.0.1.nupkg.sha512",
     "/Users/karan/.nuget/packages/serilog.sinks.xamarin/0.2.0.64/serilog.sinks.xamarin.0.2.0.64.nupkg.sha512",
     "/Users/karan/.nuget/packages/system.collections.nongeneric/4.3.0/system.collections.nongeneric.4.3.0.nupkg.sha512",
-    "/Users/karan/.nuget/packages/system.runtime.compilerservices.unsafe/4.4.0/system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
+    "/Users/karan/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/karan/.nuget/packages/system.runtime.compilerservices.unsafe/4.4.0/system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512",
+    "/Users/karan/.nuget/packages/webp.touch/1.0.8/webp.touch.1.0.8.nupkg.sha512",
+    "/Users/karan/.nuget/packages/xamarin.essentials/1.7.3/xamarin.essentials.1.7.3.nupkg.sha512",
+    "/Users/karan/.nuget/packages/xamarin.ffimageloading/2.4.11.982/xamarin.ffimageloading.2.4.11.982.nupkg.sha512"
   ],
   "logs": []
 }
